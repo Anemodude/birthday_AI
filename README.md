@@ -14,24 +14,24 @@ Launch the application.
 
 Allow camera and microphone access.
 
-Say:
-
-Joseph
+Say: **Joseph**
 
 The application automatically:
 
-Plays birthday music
-Displays balloons
-Captures a live camera snapshot
-Shows a personalized birthday message
-Technologies Used
-Python
-OpenCV
-MediaPipe
-SpeechRecognition
-PyAudio
-Pygame
+**Plays birthday music** :
+1) Displays balloons
+2) Captures a live camera snapshot
+3) Shows a personalized birthday message "Happy Birthday"
+
+**Technologies used** :
+
+4) Python
+5) OpenCV
+6) MediaPipe
+7) SpeechRecognition
+8) PyAudio
+9) Pygame  
 
 
-**Author*
-**Joseph Rafat**
+**Author**  
+*Joseph Rafat*
